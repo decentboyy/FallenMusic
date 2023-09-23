@@ -30,7 +30,6 @@ import numpy as np
 from PIL import Image, ImageChops, ImageDraw, ImageEnhance, ImageFilter, ImageFont
 from youtubesearchpython.__future__ import VideosSearch
 
-from config import FAILED
 from FallenMusic import BOT_ID, LOGGER, app
 
 
